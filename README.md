@@ -34,3 +34,6 @@ We also provide final assessment for participants.
 
 **Note: some examples in these notebook are adapted from [AutoGluon](https://auto.gluon.ai/stable/index.html)**
 We also introduce a couple TFMs developed by the AutoGluon team.
+
+**TFMs do not need training, but even zero-shot predictions require enough compute for in-context learning.**
+**Hence, it would be good to have GPU. Google Colab may be a good option for running experiments. All code bases have been tested there.**
