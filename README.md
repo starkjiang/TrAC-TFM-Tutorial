@@ -21,18 +21,18 @@ zero-shot prediction capabilities.
 
 ## Module 3 Extension to Time-series Data via Tabular Foundation Models
 
-In this module, we present how the TFMs introduced in Module 2 can be extended to time-
-series data, which can be treated as dynamic tabular data. We will feature a couple models
+In this module, we present how the TFMs introduced in Module 2 can be extended to time-series data,
+which can be treated as dynamic tabular data. We will feature a couple models
 and show how they work with different datasets.
 
 ## Module 4 Introduction to Advanced Applications and Final Assessment
 
 Beyond the last three modules focusing on tabular data, this module focuses more on multimodalities,
-including image, text, tabular, etc. Since they are advanced application, we only give introduction.
+including image, text, tabular, etc. Since they are advanced applications, we only give introduction.
 We also provide final assessment for participants.
 
 
-**Note: some examples in these notebook are adapted from [AutoGluon](https://auto.gluon.ai/stable/index.html)**
+**Note: some examples in these notebook are adapted from [AutoGluon](https://auto.gluon.ai/stable/index.html)**.
 We also introduce a couple TFMs developed by the AutoGluon team.
 
 **TFMs do not need training, but even zero-shot predictions require enough compute for in-context learning.**
