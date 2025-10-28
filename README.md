@@ -1,6 +1,6 @@
 # TrAC Tabular and Time-series Foundation Model Tutorial
 
-This GitHub is for the TrAC tutorial on Tabular and Time-series Foundation Model.
+This GitHub repo is for the TrAC tutorial on Tabular and Time-series Foundation Model.
 There are totally 4 modules dedicated to different focuses. Each module has an
 associated notebook coding tutorial including the introduction of different
 attributes, classes, and experiments. 
